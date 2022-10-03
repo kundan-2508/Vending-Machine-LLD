@@ -1,0 +1,15 @@
+C:\Projects\Vending-Machine-LLD\bin\Debug\net6.0\Vending-Machine-LLD.exe
+C:\Projects\Vending-Machine-LLD\bin\Debug\net6.0\Vending-Machine-LLD.deps.json
+C:\Projects\Vending-Machine-LLD\bin\Debug\net6.0\Vending-Machine-LLD.runtimeconfig.json
+C:\Projects\Vending-Machine-LLD\bin\Debug\net6.0\Vending-Machine-LLD.dll
+C:\Projects\Vending-Machine-LLD\bin\Debug\net6.0\Vending-Machine-LLD.pdb
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\Vending-Machine-LLD.csproj.AssemblyReference.cache
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\Vending-Machine-LLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\Vending-Machine-LLD.AssemblyInfoInputs.cache
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\Vending-Machine-LLD.AssemblyInfo.cs
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\Vending-Machine-LLD.csproj.CoreCompileInputs.cache
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\Vending-Machine-LLD.dll
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\refint\Vending-Machine-LLD.dll
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\Vending-Machine-LLD.pdb
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\Vending-Machine-LLD.genruntimeconfig.cache
+C:\Projects\Vending-Machine-LLD\obj\Debug\net6.0\ref\Vending-Machine-LLD.dll
